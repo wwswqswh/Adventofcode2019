@@ -1,4 +1,4 @@
-package com.wensen;
+package com.wensen.day.one;
 
 public class CountFuel {
 
